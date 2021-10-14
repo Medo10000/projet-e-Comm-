@@ -1,5 +1,6 @@
 @extends('master')
 @section('content')
+<!-- CONTAINER CUSTOM-LOGIN  -->
 <div class="container custom-login">
     <div class="row">
         <div class="col-xl-5 col-lg-6 col-md-8 col-sm-10 mx-auto">
